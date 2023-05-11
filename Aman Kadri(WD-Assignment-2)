@@ -1,0 +1,253 @@
+
+         Website-designing Assignment 
+         
+             Module (CSS) -2
+             
+Q1. What are the benefits of using CSS?    
+A1. 1) Faster Page Speed. More code means slower page speed. ...
+2) Better User Experience. CSS not only makes web pages easy on the eye, it also allows for user-friendly formatting. ...
+3) Quicker Development Time. ...
+4) Easy Formatting Changes. ...
+5) Compatibility Across Devices.
+
+
+Q2. What are the disadvantages of CSS? 
+A2. Confusion due to many CSS levels. Beginners are more vulnerable to this issue. ...
+Cross-Browser Issues. Different browsers work differently. 
+Security Issues. Security is important in today's world driven by technology and data. 
+Extra Work for Developers.
+
+
+Q3. What is the difference between CSS2 and CSS3?
+A3. Confusion due to many CSS levels. Beginners are more vulnerable to this issue. ...
+Cross-Browser Issues. Different browsers work differently. ...
+Security Issues. Security is important in today's world driven by technology and data. ...
+Extra Work for Developers.
+
+
+Q4. Name a few CSS style components 
+A4. font-size.
+width.
+background-color.
+color.
+border.
+
+
+Q5. What do you understand by CSS opacity?
+A5. The opacity property sets the opacity level for an element.
+
+The opacity-level describes the transparency-level, where 1 is not transparent at all, 0.5 is 50% see-through, and 0 is completely transparent.
+
+
+opacity 0.2
+
+
+opacity 0.5
+
+
+opacity 1
+(default)
+
+
+Q6. How can the background color of an element be changed?  
+A6. To add background color in HTML, use the CSS background-color property. Set it to the color name or code you want and place it inside a style attribute. Then add this style attribute to an HTML element, like a table, heading, div, or span tag.
+
+
+Q7. How can image repetition of the backup be controlled? 
+A7. ગુજરાતીમાં
+In English
+To control the repetition of an image in the background, use the background-repeat property. You can use no-repeat value for the background-repeat property if you do not want to repeat an image, in this case, the image will display only once.
+
+
+Q8. What is the use of the background-position property?
+A8. The background-position property sets the starting position of a background image. Tip: By default, a background-image is placed at the top-left corner of an element, and repeated both vertically and horizontally.
+
+
+Q9. Which property controls the image scroll in the background?
+A9. To set the scrolling of an image in the background, use the background-attachment property.
+
+
+Q10. Why should background and color be used as separate properties? 
+A10. Why background and color are the separate properties if they should always be set together? There are two reasons behind this: It enhances the legibility of style sheets. The background property is a complex property in CSS, and if it is combined with color, the complexity will further increase.
+
+
+Q11. How to center block elements using CSS1? 
+A11. To centrally align the block elements, we can simply make use of the <center> tag. All the elements within the <center> tag will be centrally aligned.
+
+
+Q12. How to maintain the CSS specifications?
+A12. The CSS Specification prior to CSS3 was a single Specification, CSS3 on the other hand is divided into Modules which are Independent Specifications that can be worked on by different author(s) at different paces, that's why we have Selector Level 3 Specification, CSS Color 4, CSS Backgrounds and so on. Some of these modules are revisions of CSS2.1, and some are newly created, but all fall under the banner of CSS3.
+
+
+Q13. What are the ways to integrate CSS as a web page? 
+A13. CSS can be added to HTML documents in 3 ways:
+Inline - by using the style attribute inside HTML elements
+Internal - by using a <style> element in the <head> section
+External - by using a <link> element to link to an external CSS file
+
+
+14)What are embedded style sheets? 
+A: An embedded style sheet is declared within the <head> element of an 
+HTML document. It applies to the whole document, rather than just one 
+element. Each style declaration (or CSS rule) gets applied to everything 
+in the document that matches that rule.
+
+
+Q15. What are the external style sheets?
+A15. An external style sheet is a separate CSS file that can be accessed by 
+creating a link within the head section of the webpage. Multiple webpages 
+can use the same link to access the stylesheet. The link to an external style 
+sheet is placed within the head section of the page.
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+
+
+Q16. What are the advantages and disadvantages of using external 
+style sheets?
+A16. The advantages of External Style Sheets are as follows:
+With the help of External Style Sheets, the styles of numerous documents 
+can be organized from one single file.
+In External Style Sheets, Classes can be made for use on numerous HTML 
+element types in many forms of the site.
+In complex contexts, Methods like selector and grouping can be 
+implemented to apply styles.
+
+The disadvantages of External Style Sheets are as follows:
+An extra download is essential to import style information for each file.
+The execution of the file may be deferred till the external style sheet is 
+loaded.
+While implementing style sheets, we need to test Web pages with multiple 
+browsers to check compatibility issues.
+
+
+Q17. What is the meaning of the CSS selector?
+A17. A CSS selector selects the HTML element(s) you want to style.
+Simple selectors (select elements based on name, id, class)
+Example: -
+Here, all <p> elements on the page will be center aligned, with a red text 
+color: 
+p {
+ text-align center;
+ color: red;
+}
+
+
+Q18. What are the media types allowed by CSS? 
+A18. all - Used for all media type devices
+print - Used for printers
+screen - Used for computer screens, tablets, smart-phones etc.
+speech - Used for screen readers that "read" the page out loud.
+
+
+Q19. What is the rule set? 
+A19. A table of instructions used by a controlled interface to determine what data is allowable and how the data is handled between interconnected systems.
+
+
+Q20. Create Layouts?
+A20. http://127.0.0.1:5501/css-layout.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
